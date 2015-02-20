@@ -1,0 +1,7 @@
+Dockerfile for the pgstatspack project.
+
+This will set up pgstatspack in a way that you can use it to call it from your Docker host to grab stats from your Docker Container running postgresql.
+
+Please let me know if you have any issues.
+
+Ian
